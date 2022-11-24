@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background:linear-gradient(#2d1c69,#261079,#681079);
+}
+
+.key:hover {
+  opacity: .8;
+  transform: scale(1.05);
+}
+
+.equals-button {
+  background-color: #4cc2ff;
+}
+
+.value-keys {
+  background-color: #3b3b3b;
+  color: #fff;
+}
+
+.function-buttons {
+  background-color: #323232;
+  color: #fff;
+}
+
+.display::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+.display::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.display::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.display::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
