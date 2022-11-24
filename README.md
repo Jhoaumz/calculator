@@ -1,7 +1,7 @@
 # Calculator
 
-A simple calculator
+A simple calculator made with React and TypeScript
 
 Try now
 
-https://calculator-eosin-zeta.vercel.app/
+https://calculator-react-gamma.vercel.app/
