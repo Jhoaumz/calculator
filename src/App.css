@@ -8,9 +8,11 @@ body {
   background:linear-gradient(#2d1c69,#261079,#681079);
 }
 
-.key:hover {
-  opacity: .8;
-  transform: scale(1.05);
+@media (hover: hover) and (pointer: fine) {
+  .key:hover {
+    opacity: .8;
+    transform: scale(1.05);
+  }
 }
 
 .equals-button {
