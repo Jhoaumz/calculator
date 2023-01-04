@@ -9,7 +9,7 @@ export default function App() {
     0,
     "+",
   ]);
-  //newDisplay saves a boolean saying if the currently display value is the result of an operation
+  //newDisplay saves a boolean saying if the currentl display value is the result of an operation
   const [newDisplay, setNewDisplay] = useState<boolean>(false);
 
   //addNumber is a function that adds a digit to the display value
